@@ -1,0 +1,33 @@
+SPECIES.REPRESENTATIVE,devel.mode,devel.code,devel.color,larval.form,larval.code,larval.color,citation
+Acanthozoon,Unknown,0&1,gray48,,,,**
+Armatoplana,Direct,1,darkslategray3,,,,Kate obs
+Boninia,Indirect,0,chocolate1,Mullers,,,"BolaÐos 2003, dissertation"
+Cycloporus,Indirect,0,chocolate1,,,,"BolaÐos 2003, dissertation"
+Echinoplana,Direct,1,darkslategray3,,,,Ballerin & Galleni
+Enchiridium,Indirect,0,chocolate1,,,,"BolaÐos 2003, dissertation"
+Eucestoplana,Unknown,0&1,gray48,,,,**
+Euplana,Direct,1,darkslategray3,,,,Christensen (1971); Bolanos 2008 dissertation
+Euprosthiostomum,Unknown,0&1,gray48,,,,**
+Geocentrophora,Direct,1,darkslategray3,,,,von Erich Reissinger 1975
+Gnesioceros,Direct,1,darkslategray3,,,,Kate obs
+Gnosonesimida,Unknown,0&1,gray48,,,,**
+Hoploplana,Both,0&1,gray48,Gotte? Muller?,,,"Rawlinson 2014, Bolanos 2008"
+Idioplana,Unknown,0&1,gray48,,,,**
+Leptoplana,Direct,1,darkslategray3,,,,Gammoudi et al. 2017; and 2012?
+Microstomum,Direct,1,darkslategray3,,,,MartÕn-Duràn and Egger 2012 [32]
+Notocomplana,Direct,1,darkslategray3,,,,Kate obs
+Pericelis,Both,0&1,gray48,Muller/both,,,"BolaÐos 2003, dissertation"
+Phaenocelis,Direct,1,darkslategray3,,,,Kate obs
+Phrikoceros,Indirect,0,chocolate1,Muller,,,"BolaÐos 2003, dissertation"
+Prorhynchus,Direct,1,darkslategray3,,,,MartÕn-Duràn and Egger 2012 [32]
+Prostheceraeus,Indirect,0,chocolate1,Muller,,,Newman et al 2000; BolaÐos & Litvaitis 2009
+Prosthiostomum,Indirect,0,chocolate1,Muller,,,Gammoudi et al 2011
+Pseudobiceros,Unknown,0&1,gray48,??,,,**
+Pseudoceros,Indirect,0,chocolate1,??,,,multiple
+Schmidtea,Direct,1,darkslategray3,,,,Alvarado 2003
+Stenostomum,Direct,1,darkslategray3,,,,"MartÕn-Duràn and Egger 2012 [33,34]"
+Stylochus,Both,0&1,gray48,Gotte,,,Rawlinson 2014
+Taenia,Indirect,0,chocolate1,,,,Taenia Solium Cysticercosis: From Basic to Clinical Science
+Theama,Unknown,0&1,gray48,Direct? Or Indirect?,,,Currini-Galetti et al 2008 says direct but pers. Obs. By Bernhard suggests not
+Thysanozoon,Indirect,0,chocolate1,,,,Gammoudi et al. 2012; Selenka 1881
+Xenoprorhynchus,Direct,1,darkslategray3,,,,"Not sp. I, but X. steinbocki is a direct developer"
