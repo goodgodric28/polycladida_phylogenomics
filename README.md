@@ -1,6 +1,6 @@
 # Polycladida phylogenomics manuscript code repository
 
-Citation: Goodheart, Jessica A., Collins, Allen G., Cummings, Michael P., Egger, Bernhard, & Rawlinson, Katherine A. In Preparation. Phylogenomics and the evolution of polyclad flatworm life history strategies.
+Citation: Goodheart, Jessica A., Collins, Allen G., Cummings, Michael P., Egger, Bernhard, & Rawlinson, Katherine A. Under Review. A phylogenomic approach to resolving interrelationships of polyclad flatworms, with implications for life history evolution. Preprint: [10.1101/2022.07.14.500079v1.full](https://www.biorxiv.org/content/10.1101/2022.07.14.500079v1.full.)
 
 ## Included
 
